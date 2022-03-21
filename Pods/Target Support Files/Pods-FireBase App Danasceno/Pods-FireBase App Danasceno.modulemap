@@ -1,0 +1,6 @@
+framework module Pods_FireBase_App_Danasceno {
+  umbrella header "Pods-FireBase App Danasceno-umbrella.h"
+
+  export *
+  module * { export * }
+}

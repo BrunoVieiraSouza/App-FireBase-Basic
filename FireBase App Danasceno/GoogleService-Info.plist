@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>774380691641-k7rf55mnc8n42hudtd1i55l2gt26e0h0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.774380691641-k7rf55mnc8n42hudtd1i55l2gt26e0h0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC46lGlYk7AgUexcV60dmHyywm_SfPzf9A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>774380691641</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.bruno.FireBase-App-Damasceno</string>
+	<key>PROJECT_ID</key>
+	<string>fir-app-danasceno</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-app-danasceno.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:774380691641:ios:5e7ac734c1973e84fdfb68</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-app-danasceno-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
